@@ -1,0 +1,399 @@
+﻿year,taxhead,amount_€m
+2024,PAYE Income Tax,24665
+2024,PAYE USC,5017
+2024,Self-Assessed Income Tax,2323
+2024,Self-Assessed USC,702
+2024,Life Assurance Exit Tax,169
+2024,Deposit Interest Retention Tax,193
+2024,Professional Services Withholding Tax,1130
+2024,Non-Resident Landlord Withholding Tax,47
+2024,Dividend Withholding Tax,720
+2024,Income Levy,
+2024,Other Income Taxes,122
+2024,VAT - on imports ,1318
+2024,Internal VAT including VAT MOSS ,20561
+2024,Excise ,6229
+2024,Corporation Tax,39061
+2024, Stamp Duty on Shares ,495
+2024, Stamp Duty on Property ,697
+2024, Other Stamp Duty,501
+2024,Capital Gains Tax,1708
+2024,Capital Acquisitions  Tax,854
+2024,Customs,587
+2024,Local Property Tax - collected on behalf of the Local Government Fund,573
+2024,Other Property Related Tax,2
+2024,Enviromental Levy On Plastic Bags,6.3
+2023,PAYE Income Tax,22726
+2023,PAYE USC,4771
+2023,Self-Assessed Income Tax,2655
+2023,Self-Assessed USC,672
+2023,Life Assurance Exit Tax,231
+2023,Deposit Interest Retention Tax,45
+2023,Professional Services Withholding Tax,1058
+2023,Non-Resident Landlord Withholding Tax,13
+2023,Dividend Withholding Tax,639
+2023,Income Levy,
+2023,Other Income Taxes,100
+2023,VAT - on imports ,1342
+2023,Internal VAT including VAT MOSS ,18907
+2023,Excise ,5726
+2023,Corporation Tax,23842
+2023, Stamp Duty on Shares ,785
+2023, Stamp Duty on Property ,674
+2023, Other Stamp Duty,313
+2023,Capital Gains Tax,1520
+2023,Capital Acquisitions  Tax,634
+2023,Customs,586
+2023,Local Property Tax - collected on behalf of the Local Government Fund,556
+2023,Other Property Related Tax,1
+2023,Enviromental Levy On Plastic Bags,1.4
+2022,PAYE Income Tax,21172
+2022,PAYE USC,4288
+2022,Self-Assessed Income Tax,2612
+2022,Self-Assessed USC,607
+2022,Life Assurance Exit Tax,233
+2022,Deposit Interest Retention Tax,14
+2022,Professional Services Withholding Tax,982
+2022,Dividend Withholding Tax,648
+2022,Income Levy,
+2022,Other Income Taxes,174
+2022,VAT - on imports ,1544
+2022,Internal VAT including VAT MOSS ,17236
+2022,Excise ,5472
+2022,Corporation Tax,22645
+2022, Stamp Duty on Shares ,500
+2022, Stamp Duty on Property ,963
+2022, Other Stamp Duty,357
+2022,Capital Gains Tax,1747
+2022,Capital Acquisitions  Tax,605
+2022,Customs,618
+2022,Local Property Tax - collected on behalf of the Local Government Fund,500
+2022,Enviromental Levy On Plastic Bags,2.5
+2021,PAYE Income Tax,18737
+2021,PAYE USC,3742
+2021,Self-Assessed Income Tax,1949
+2021,Self-Assessed USC,625
+2021,Life Assurance Exit Tax,129
+2021,Deposit Interest Retention Tax,20
+2021,Professional Services Withholding Tax,902
+2021,Dividend Withholding Tax,582
+2021,Income Levy,
+2021,Other Income Taxes,64
+2021,VAT - on imports ,1699
+2021,Internal VAT including VAT MOSS ,13691
+2021,Excise ,5823
+2021,Corporation Tax,15323
+2021, Stamp Duty on Shares ,372
+2021, Stamp Duty on Property ,728
+2021, Other Stamp Duty,395
+2021,Capital Gains Tax,1645
+2021,Capital Acquisitions  Tax,582
+2021,Customs,520
+2021,Local Property Tax - collected on behalf of the Local Government Fund,551
+2021,Enviromental Levy On Plastic Bags,3.5
+2020,PAYE Income Tax,15576
+2020,PAYE USC,3260
+2020,Self-Assessed Income Tax,1828
+2020,Self-Assessed USC,572
+2020,Life Assurance Exit Tax,124
+2020,Deposit Interest Retention Tax,37
+2020,Professional Services Withholding Tax,759
+2020,Dividend Withholding Tax,487
+2020,Income Levy,
+2020,Other Income Taxes,4
+2020,VAT - on imports ,1802
+2020,Internal VAT including VAT MOSS ,10672
+2020,Excise ,5427
+2020,Corporation Tax,11833
+2020, Stamp Duty on Shares ,569
+2020, Stamp Duty on Property ,519
+2020, Other Stamp Duty,1006
+2020,Capital Gains Tax,950
+2020,Capital Acquisitions  Tax,505
+2020,Customs,273
+2020,Local Property Tax - collected on behalf of the Local Government Fund,482
+2020,Enviromental Levy On Plastic Bags,4
+2019,PAYE Income Tax,15777
+2019,PAYE USC,3275
+2019,Self-Assessed Income Tax,2014
+2019,Self-Assessed USC,522
+2019,Life Assurance Exit Tax,128
+2019,Deposit Interest Retention Tax,64
+2019,Professional Services Withholding Tax,696
+2019,Dividend Withholding Tax,408
+2019,Income Levy,
+2019,Other Income Taxes,54
+2019,VAT - on imports ,1974
+2019,Internal VAT including VAT MOSS ,13194
+2019,Excise ,5865
+2019,Corporation Tax,10887
+2019, Stamp Duty on Shares ,399
+2019, Stamp Duty on Property ,717
+2019, Other Stamp Duty,398
+2019,Capital Gains Tax,1076
+2019,Capital Acquisitions  Tax,522
+2019,Customs,341
+2019,Local Property Tax - collected on behalf of the Local Government Fund,474
+2019,Enviromental Levy On Plastic Bags,5
+2018,PAYE Income Tax,14475
+2018,PAYE USC,3197
+2018,Self-Assessed Income Tax,1760
+2018,Self-Assessed USC,541
+2018,Life Assurance Exit Tax,165
+2018,Deposit Interest Retention Tax,96
+2018,Professional Services Withholding Tax,663
+2018,Dividend Withholding Tax,353
+2018,Income Levy,0
+2018,Other Income Taxes,46
+2018,VAT - on imports ,1871
+2018,Internal VAT including VAT MOSS ,12336
+2018,Excise ,5433
+2018,Corporation Tax,10387
+2018, Stamp Duty on Shares ,473
+2018, Stamp Duty on Property ,660
+2018, Other Stamp Duty,330
+2018,Capital Gains Tax,996
+2018,Capital Acquisitions  Tax,523
+2018,Customs,327
+2018,Local Property Tax - collected on behalf of the Local Government Fund,483
+2018,Enviromental Levy On Plastic Bags,7
+2017,PAYE Income Tax,13071
+2017,PAYE USC,3131
+2017,Self-Assessed Income Tax,1844
+2017,Self-Assessed USC,593
+2017,Life Assurance Exit Tax,184
+2017,Deposit Interest Retention Tax,118
+2017,Professional Services Withholding Tax,634
+2017,Dividend Withholding Tax,324
+2017,Income Levy,0
+2017,Other Income Taxes,73
+2017,VAT - on imports ,1733
+2017,Internal VAT including VAT MOSS ,11545
+2017,Excise ,6016
+2017,Corporation Tax,8201
+2017, Stamp Duty on Shares ,449
+2017, Stamp Duty on Property ,381
+2017, Other Stamp Duty,365
+2017,Capital Gains Tax,826
+2017,Capital Acquisitions  Tax,460
+2017,Customs,335
+2017,Local Property Tax,477
+2017,Enviromental Levy On Plastic Bags,7
+2016,PAYE Income Tax,11985
+2016,PAYE USC,3287
+2016,Self-Assessed Income Tax,1915
+2016,Self-Assessed USC,681
+2016,Life Assurance Exit Tax,228
+2016,Deposit Interest Retention Tax,170
+2016,Professional Services Withholding Tax,583
+2016,Dividend Withholding Tax,272
+2016,Income Levy,2
+2016,Other Income Taxes,49
+2016,VAT - on imports ,1546
+2016,Internal VAT including VAT MOSS ,10894
+2016,Excise ,5801
+2016,Corporation Tax,7352
+2016, Stamp Duty on Shares ,410
+2016, Stamp Duty on Property ,389
+2016, Other Stamp Duty,380
+2016,Capital Gains Tax,819
+2016,Capital Acquisitions  Tax,415
+2016,Customs,311
+2016,Local Property Tax,463
+2016,Enviromental Levy On Plastic Bags,8
+2015,PAYE Income Tax,10950
+2015,PAYE USC,3640
+2015,Self-Assessed Income Tax,1434
+2015,Self-Assessed USC,534
+2015,Life Assurance Exit Tax,247
+2015,Deposit Interest Retention Tax,300
+2015,Professional Services Withholding Tax,564
+2015,Dividend Withholding Tax,600
+2015,Income Levy,3
+2015,Other Income Taxes,71
+2015,VAT - on imports ,1577
+2015,Internal VAT including VAT MOSS ,10361
+2015,Excise ,5463
+2015,Corporation Tax,6873
+2015, Stamp Duty on Shares ,424
+2015, Stamp Duty on Property ,301
+2015, Other Stamp Duty,551
+2015,Capital Gains Tax,692
+2015,Capital Acquisitions  Tax,400
+2015,Customs,331
+2015,Local Property Tax,469
+2015,Enviromental Levy On Plastic Bags,12
+2014,PAYE Income Tax,10778
+2014,PAYE USC,3171
+2014,Self-Assessed Income Tax,1332
+2014,Self-Assessed USC,476
+2014,Life Assurance Exit Tax,130
+2014,Deposit Interest Retention Tax,435
+2014,Professional Services Withholding Tax,533
+2014,Dividend Withholding Tax,195
+2014,Income Levy,4
+2014,Other Income Taxes,78
+2014,VAT - on imports ,1478
+2014,Internal VAT including VAT MOSS ,9679
+2014,Excise ,5134
+2014,Corporation Tax,4617
+2014,Stamp Duty on Shares ,282
+2014,Stamp Duty on Property ,275
+2014,Other Stamp Duty,1122
+2014,Capital Gains Tax,539
+2014,Capital Acquisitions  Tax,356
+2014,Customs,275
+2014,Local Property Tax,493
+2014,Enviromental Levy On Plastic Bags,13
+2013,PAYE Income Tax,9508
+2013,Self-Assessed Income Tax,1039
+2013,Universal Social Charge Total,3930
+2013,Deposit Interest Retention Tax,499
+2013,Professional Services Withholding Tax,542
+2013,Dividend Withholding Tax,234
+2013,VAT - on imports ,1274
+2013,Internal VAT including VAT MOSS ,9051
+2013,Excise ,4986
+2013,Corporation Tax,4270
+2013,Stamp Duty on Shares ,252
+2013,Stamp Duty on Property ,152
+2013,Other Stamp Duty,929
+2013,Capital Gains Tax,367
+2013,Capital Acquisitions  Tax,279
+2013,Customs,248
+2013,Local Property Tax,316
+2013,Enviromental Levy On Plastic Bags,15
+2012,PAYE Income Tax,9058
+2012,Self-Assessed Income Tax,883
+2012,Universal Social Charge Total,3790
+2012,Deposit Interest Retention Tax,581
+2012,Professional Services Withholding Tax,542
+2012,Dividend Withholding Tax,252
+2012,Income Levy,45
+2012,VAT - on imports ,1471
+2012,Internal VAT including VAT MOSS ,8695
+2012,Excise ,4759
+2012,Corporation Tax,4215
+2012,Stamp Duty on Shares ,172
+2012,Stamp Duty on Property ,105
+2012,Other Stamp Duty,1149
+2012,Capital Gains Tax,413
+2012,Capital Acquisitions  Tax,283
+2012,Customs,242
+2012,Enviromental Levy On Plastic Bags,14
+2011,PAYE Income Tax,8496
+2011,Self-Assessed Income Tax,811
+2011,Universal Social Charge Total,3114
+2011,Deposit Interest Retention Tax,473
+2011,Professional Services Withholding Tax,555
+2011,Dividend Withholding Tax,179
+2011,Income Levy,184
+2011,VAT - on imports ,1089
+2011,Internal VAT including VAT MOSS ,8663
+2011,Excise ,4872
+2011,Corporation Tax,3500
+2011,Stamp Duty on Shares ,195
+2011,Stamp Duty on Property ,135
+2011,Other Stamp Duty,1053
+2011,Capital Gains Tax,416
+2011,Capital Acquisitions  Tax,243
+2011,Customs,240
+2011,Enviromental Levy On Plastic Bags,16
+2010,PAYE Income Tax,7777
+2010,Self-Assessed Income Tax,815
+2010,Deposit Interest Retention Tax,446
+2010,Professional Services Withholding Tax,564
+2010,Dividend Withholding Tax,218
+2010,Income Levy,1446
+2010,VAT - on imports ,1053
+2010,Internal VAT including VAT MOSS ,9050
+2010,Excise ,4835
+2010,Corporation Tax,3944
+2010,Stamp Duty on Shares ,182
+2010,Stamp Duty on Property ,199
+2010,Other Stamp Duty,581
+2010,Capital Gains Tax,345
+2010,Capital Acquisitions  Tax,237
+2010,Customs,229
+2010,Enviromental Levy On Plastic Bags,19
+2009,PAYE Income Tax,8488
+2009,Self-Assessed Income Tax,846
+2009,Deposit Interest Retention Tax,614
+2009,Professional Services Withholding Tax,597
+2009,Dividend Withholding Tax,156
+2009,Income Levy,1138
+2009,VAT - on imports ,991
+2009,Internal VAT including VAT MOSS ,9647
+2009,Excise ,4901
+2009,Corporation Tax,3889
+2009,Stamp Duty on Shares ,208
+2009,Stamp Duty on Property ,330
+2009,Other Stamp Duty,464
+2009,Capital Gains Tax,545
+2009,Capital Acquisitions  Tax,256
+2009,Customs,208
+2009,Enviromental Levy On Plastic Bags,24
+2008,PAYE Income Tax,10069
+2008,Self-Assessed Income Tax,1519
+2008,Deposit Interest Retention Tax,654
+2008,Professional Services Withholding Tax,604
+2008,Dividend Withholding Tax,350
+2008,VAT - on imports ,1367
+2008,Internal VAT including VAT MOSS ,12065
+2008,Excise ,5600
+2008,Corporation Tax,5071
+2008,Stamp Duty on Shares ,419
+2008,Stamp Duty on Property ,1045
+2008,Other Stamp Duty,299
+2008,Capital Gains Tax,1424
+2008,Capital Acquisitions  Tax,343
+2008,Customs,245
+2008,Enviromental Levy On Plastic Bags,26
+2007,PAYE Income Tax,10155
+2007,Self-Assessed Income Tax,2094
+2007,Deposit Interest Retention Tax,472
+2007,Professional Services Withholding Tax,537
+2007,Dividend Withholding Tax,325
+2007,VAT - on imports ,1540
+2007,Internal VAT including VAT MOSS ,12978
+2007,Excise ,6003
+2007,Corporation Tax,6393
+2007,Stamp Duty on Shares ,609
+2007,Stamp Duty on Property ,2381
+2007,Other Stamp Duty,254
+2007,Capital Gains Tax,3097
+2007,Capital Acquisitions  Tax,391
+2007,Customs,273
+2007,Enviromental Levy On Plastic Bags,22
+2006,PAYE Income Tax,9389
+2006,Self-Assessed Income Tax,2047
+2006,Deposit Interest Retention Tax,254
+2006,Professional Services Withholding Tax,400
+2006,Dividend Withholding Tax,285
+2006,VAT - on imports ,1469
+2006,Internal VAT including VAT MOSS ,11982
+2006,Excise ,5696
+2006,Corporation Tax,6685
+2006,Stamp Duty on Shares ,406
+2006,Stamp Duty on Property ,2989
+2006,Other Stamp Duty,236
+2006,Capital Gains Tax,3099
+2006,Capital Acquisitions  Tax,343
+2006,Customs,255
+2006,Enviromental Levy On Plastic Bags,19
+2005,PAYE Income Tax,8637
+2005,Self-Assessed Income Tax,1961
+2005,Deposit Interest Retention Tax,167
+2005,Professional Services Withholding Tax,342
+2005,Dividend Withholding Tax,232
+2005,VAT - on imports ,1217
+2005,Internal VAT including VAT MOSS ,10908
+2005,Excise ,5391
+2005,Corporation Tax,5503
+2005,Stamp Duty on Shares ,324
+2005,Stamp Duty on Property ,2002
+2005,Other Stamp Duty,348
+2005,Capital Gains Tax,1982
+2005,Capital Acquisitions  Tax,249
+2005,Customs,226
+2005,Enviromental Levy On Plastic Bags,18

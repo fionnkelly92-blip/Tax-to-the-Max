@@ -1,0 +1,12 @@
+Company,Sector,TaxContribution,BaseProb
+Company A,Multinational,4882625000,0.03
+Company B,Multinational,4687320000,0.03
+Company C,Multinational,4101405000,0.03
+Company D,Multinational,1953050000,0.03
+Company E,Multinational,1757745000,0.03
+Company F,Multinational,1562440000,0.03
+Company G,Multinational,1367135000,0.03
+Company H,Multinational,1171830000,0.03
+Company I,Multinational,976525000,0.03
+Company J,Multinational,781220000,0.03
+Other MNCs,Multinational,15819705000,0.03
